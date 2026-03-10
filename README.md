@@ -1,18 +1,49 @@
-## Getting Started
+# 💱 Conversor de Monedas - Challenge Alura ONE
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+✨ Proyecto desarrollado como parte del **Challenge de Java de Alura ONE**.  
+Este programa permite convertir diferentes monedas utilizando **tasas de cambio en tiempo real** obtenidas desde una API.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🛠 Tecnologías utilizadas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- ☕ **Java**
+- 🌍 **ExchangeRate API**
+- 📦 **Gson** (para procesar JSON)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Funcionalidades
 
-## Dependency Management
+El conversor permite realizar las siguientes conversiones:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 💵 **USD → ARS** (Dólar a Peso Argentino)
+- 🇦🇷 **ARS → USD** (Peso Argentino a Dólar)
+- 💵 **USD → BRL** (Dólar a Real Brasileño)
+- 🇧🇷 **BRL → USD** (Real Brasileño a Dólar)
+- 💵 **USD → EUR** (Dólar a Euro)
+- 🇪🇺 **EUR → USD** (Euro a Dólar)
+
+---
+
+## 📋 Cómo usar el programa
+
+1️⃣ Ejecuta el programa  
+2️⃣ Elige una opción del menú  
+3️⃣ Ingresa la cantidad que deseas convertir  
+4️⃣ 🎉 El programa mostrará el resultado usando el tipo de cambio actual
+
+---
+
+## 💡 Objetivo del proyecto
+
+Este proyecto fue creado para practicar:
+
+- 🧠 Programación orientada a objetos en **Java**
+- 🌐 Consumo de **APIs externas**
+- 📄 Manejo de **JSON**
+- 🧰 Uso de **bibliotecas externas (Gson)**
+
+---
+
+⭐ Proyecto realizado con dedicación como parte del programa **Alura ONE - Oracle Next Education**.
