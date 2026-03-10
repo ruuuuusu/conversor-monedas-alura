@@ -46,4 +46,8 @@ Este proyecto fue creado para practicar:
 
 ---
 
+<<<<<<< HEAD
 ⭐ Proyecto realizado con dedicación como parte del programa **Alura ONE - Oracle Next Education**.
+=======
+⭐ Proyecto realizado con dedicación como parte del programa **Alura ONE - Oracle Next Education**.
+>>>>>>> 74abf4cf4860d3f1c501e1c3df99e316dc0ca920
