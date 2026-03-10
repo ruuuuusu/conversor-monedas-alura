@@ -1,15 +1,19 @@
-# 💱 Conversor de Monedas - Challenge Alura ONE
+# 💱 Conversor de Monedas
 
-✨ Proyecto desarrollado como parte del **Challenge de Java de Alura ONE**.  
-Este programa permite convertir diferentes monedas utilizando **tasas de cambio en tiempo real** obtenidas desde una API.
+Proyecto desarrollado como parte del **Challenge de Java de Alura ONE**. Este programa permite convertir diferentes monedas utilizando **tasas de cambio en tiempo real** obtenidas desde una API.
 
 ---
+
+## 📸 Vista del programa
+
+![Conversor de Monedas](./image.png)
 
 ## 🛠 Tecnologías utilizadas
 
 - ☕ **Java**
 - 🌍 **ExchangeRate API**
 - 📦 **Gson** (para procesar JSON)
+- 🖥 **Java Swing** (para la interfaz gráfica)
 
 ---
 
@@ -28,10 +32,22 @@ El conversor permite realizar las siguientes conversiones:
 
 ## 📋 Cómo usar el programa
 
-1️⃣ Ejecuta el programa  
-2️⃣ Elige una opción del menú  
-3️⃣ Ingresa la cantidad que deseas convertir  
-4️⃣ 🎉 El programa mostrará el resultado usando el tipo de cambio actual
+El proyecto puede ejecutarse de dos maneras:
+
+### 🖥 Modo consola
+
+1. Ejecuta el archivo **Principal.java**
+2. Elige una opción del menú
+3. Ingresa la cantidad que deseas convertir
+4. El programa mostrará el resultado en la terminal
+
+### 🪟 Modo interfaz gráfica
+
+1. Ejecuta el archivo **VentanaConversor.java**
+2. Ingresa la cantidad a convertir
+3. Selecciona las monedas de origen y destino
+4. Presiona el botón **Convertir**
+5. El resultado aparecerá en la ventana
 
 ---
 
@@ -39,15 +55,15 @@ El conversor permite realizar las siguientes conversiones:
 
 Este proyecto fue creado para practicar:
 
-- 🧠 Programación orientada a objetos en **Java**
-- 🌐 Consumo de **APIs externas**
-- 📄 Manejo de **JSON**
-- 🧰 Uso de **bibliotecas externas (Gson)**
+- Programación orientada a objetos en **Java**
+- Consumo de **APIs externas**
+- Manejo de **JSON**
+- Uso de **bibliotecas externas (Gson)**
+- Desarrollo de **interfaces gráficas con Swing**
 
 ---
 
-<<<<<<< HEAD
-⭐ Proyecto realizado con dedicación como parte del programa **Alura ONE - Oracle Next Education**.
-=======
-⭐ Proyecto realizado con dedicación como parte del programa **Alura ONE - Oracle Next Education**.
->>>>>>> 74abf4cf4860d3f1c501e1c3df99e316dc0ca920
+Proyecto realizado con dedicación como parte del programa **Alura ONE - Oracle Next Education**.
+
+
+[def]: ./image.png
